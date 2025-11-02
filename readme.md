@@ -4,7 +4,7 @@
 ---
 
 ## 📘 Project Overview
-The **Dynamic AI Chatbot** is an intermediate level conversational AI application built using **Python**, **Natural Language Processing (NLP)**, and **Machine Learning (ML)**.  
+The **Dynamic AI Chatbot** is a beginner level conversational AI application built using **Python**, **Natural Language Processing (NLP)**, and **Machine Learning (ML)**.  
 It can understand user input, detect sentiment, identify intent, and respond contextually with human-like interaction.  
 
 
@@ -52,3 +52,4 @@ It can understand user input, detect sentiment, identify intent, and respond con
 ```bash
 git clone https://github.com/Shweta-1010/dynamic-ai-chatbot.git
 cd dynamic-ai-chatbot
+

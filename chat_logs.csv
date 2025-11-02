@@ -1,0 +1,12 @@
+Timestamp,User,Bot,Intent,Sentiment
+2025-11-02 18:35:12,"hello, how are you?  ",Hello! How can I assist you today?,greeting,Neutral
+2025-11-02 18:35:29,"  hey, what’s up? ",Hello! How can I assist you today?,greeting,Neutral
+2025-11-02 18:36:10,you are really cool  ,Thanks! I’m glad you like it 😊,compliment,Positive
+2025-11-02 18:36:32,  I hate this ,Hello! How can I assist you today?,greeting,Negative
+2025-11-02 18:37:04,what time is it right now ,Let me check... It's 06:37 PM!,ask_time,Positive
+2025-11-02 18:37:20,  what’s your name,That's an interesting question! Let’s talk about it.,neutral_question,Neutral
+2025-11-02 18:37:32,  what’s your name,That's an interesting question! Let’s talk about it.,neutral_question,Neutral
+2025-11-02 18:37:53,  can you help me with a question  ,Sure! Tell me what you need help with.,ask_help,Neutral
+2025-11-02 18:38:15, I’m upset because my code isn’t working ,I'm sorry to hear that. Want to talk about it?,feeling_sad,Neutral
+2025-11-02 18:38:39,"I’m fine, just a normal day",Got it! Sounds like an average day. How can I help you?,feeling_neutral,Positive
+2025-11-02 18:39:06,I’m so mad right now,I'm sorry to hear that. Want to talk about it?,feeling_sad,Neutral

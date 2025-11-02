@@ -1,0 +1,23 @@
+intent,patterns,responses
+greeting,hello|hi|hey|good morning|good evening|what's up,Hello! How can I assist you today?
+goodbye,bye|goodbye|see you|take care|catch you later,Goodbye! Hope to chat again soon.
+thanks,thanks|thank you|appreciate it|grateful,You're most welcome!
+feeling_happy,happy|excited|great|good|amazing|wonderful|awesome,That's awesome! Keep up the positive vibes!
+feeling_sad,sad|upset|mad|angry|depressed|disappointed|bored,I'm sorry to hear that. Want to talk about it?
+feeling_neutral,okay|fine|not bad|alright|normal,Got it! Sounds like an average day. How can I help you?
+feeling_stressed,stressed|worried|anxious|tense|panic,It’s okay to feel that way sometimes. Maybe a short break or deep breath would help?
+feeling_lonely,lonely|alone|no one|ignored,I’m here for you! Want to chat a bit?
+ask_name,what's your name|who are you|name please,I'm Dynamic AI Chatbot — your virtual assistant.
+ask_time,time|what time|current time|tell time,Let me check... It's {time_now}!
+ask_date,date|today's date|what date|day today,Today's date is {date_now}.
+ask_weather,weather|temperature|hot|cold|rainy|forecast,"I'm not connected to live weather, but I can suggest checking a weather site!"
+ask_help,help|assist|support|need help,Sure! Tell me what you need help with.
+data_science,data science|analytics|machine learning|AI|big data,Data Science is about extracting insights and knowledge from data using algorithms and models.
+python,python|python language|learn python,"Python is a popular programming language for AI, Data Science, and web apps."
+ml_basics,machine learning|ML|algorithms|train model,Machine Learning lets computers learn from data without explicit programming.
+feeling_confused,confused|don't understand|not clear|explain again,No problem! Let me try to explain more clearly.
+feeling_motivated,motivated|inspired|ready|driven,That’s the spirit! Keep going — progress always pays off.
+feedback,feedback|suggestion|comment|opinion,Your feedback helps me improve. What would you like to share?
+compliment,nice|awesome|cool|great job|good work,Thanks! I’m glad you like it 😊
+negative_comment,bad|terrible|useless|hate this,I’m sorry you feel that way. I’ll try to do better next time.
+neutral_question,what|why|how|when|where,That's an interesting question! Let’s talk about it.
